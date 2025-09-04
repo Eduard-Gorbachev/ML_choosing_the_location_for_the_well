@@ -21,7 +21,7 @@
 - Открыть файл `ML_choosing_the_location_for_the_well.ipynb` в GitHub
   
 или
-- Скачайте и запустите файл `ML_choosing_the_location_for_the_well.ipynb` или ноутбук с аналогичным кодом в Jupyter. Данные находятся в в папке `data_files`. При чтении файлов укажите свой путь к файлам в коде. 
+- Скачайте и запустите файл `ML_choosing_the_location_for_the_well.ipynb` или ноутбук с аналогичным кодом в Jupyter. Данные находятся в папке `data_files`. При чтении файлов укажите свой путь к файлам в коде. 
 
 
 ## Краткие результаты
